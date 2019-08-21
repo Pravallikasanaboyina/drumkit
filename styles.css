@@ -44,10 +44,6 @@ footer {
 }
 
 .set {
-  justify-content: center;
-  display: flex;
-  flex-wrap: wrap;
-  margin: none;
   margin: 10% auto;
 }
 
