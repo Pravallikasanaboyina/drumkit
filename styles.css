@@ -45,6 +45,9 @@ footer {
 
 .set {
   margin: 10% auto;
+  justify-content: center;
+  display: flex;
+  flex-wrap: wrap;
 }
 
 .drum {
