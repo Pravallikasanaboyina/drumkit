@@ -16,31 +16,31 @@ document.addEventListener("keydown", function(event) {
 function makeSound(key) {
   switch (key) {
     case "s":
-      var audio = new Audio('/home/user-/Desktop/dom/drum/sounds/tom-1.mp3');
+      var audio = new Audio('tom-1.mp3');
       audio.play();
       break;
     case "r":
-      var audio = new Audio('/home/user-/Desktop/dom/drum/sounds/tom-2.mp3');
+      var audio = new Audio('tom-2.mp3');
       audio.play();
       break;
     case "g":
-      var audio = new Audio('/home/user-/Desktop/dom/drum/sounds/tom-3.mp3');
+      var audio = new Audio('tom-3.mp3');
       audio.play();
       break;
     case "m":
-      var audio = new Audio('/home/user-/Desktop/dom/drum/sounds/tom-4.mp3');
+      var audio = new Audio('tom-4.mp3');
       audio.play();
       break;
     case "p":
-      var audio = new Audio('/home/user-/Desktop/dom/drum/sounds/snare.mp3');
+      var audio = new Audio('snare.mp3');
       audio.play();
       break;
     case "d":
-      var audio = new Audio('/home/user-/Desktop/dom/drum/sounds/crash.mp3');
+      var audio = new Audio('crash.mp3');
       audio.play();
       break;
     case "n":
-      var audio = new Audio('/home/user-/Desktop/dom/drum/sounds/kick-bass.mp3');
+      var audio = new Audio('kick-bass.mp3');
       audio.play();
       break;
     default:
