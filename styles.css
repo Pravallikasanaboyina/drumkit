@@ -16,31 +16,31 @@ footer {
 }
 
 .s {
-  background-image: url("/home/user-/Desktop/dom/drum/images/tom1.png");
+  background-image: url("tom1.png");
 }
 
 .r {
-  background-image: url("/home/user-/Desktop/dom/drum/images/tom2.png");
+  background-image: url("tom2.png");
 }
 
 .g {
-  background-image: url("/home/user-/Desktop/dom/drum/images/tom3.png");
+  background-image: url("tom3.png");
 }
 
 .m {
-  background-image: url("/home/user-/Desktop/dom/drum/images/tom4.png");
+  background-image: url("tom4.png");
 }
 
 .p {
-  background-image: url("/home/user-/Desktop/dom/drum/images/snare.png");
+  background-image: url("snare.png");
 }
 
 .d {
-  background-image: url("/home/user-/Desktop/dom/drum/images/crash.png");
+  background-image: url("crash.png");
 }
 
 .n {
-  background-image: url("/home/user-/Desktop/dom/drum/images/kick.png");
+  background-image: url("kick.png");
 }
 
 .set {
